@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>net.eventpanel.goToNestModule</id>
     <name>Go To NestJS Module</name>
-    <version>1.0</version>
+    <version>1.0.2</version>
     <vendor email="dmitry.preobrazhenskiy@eventpanel.net" url="https://eventpanel.net">Dmitry Preobrazhenskiy</vendor>
 
     <depends>com.intellij.modules.platform</depends>

@@ -1,7 +1,7 @@
 <idea-plugin>
     <id>net.eventpanel.goToNestModule</id>
     <name>Go To NestJS Module</name>
-    <version>1.0.2</version>
+    <version>1.0.3</version>
     <vendor email="dmitry.preobrazhenskiy@eventpanel.net" url="https://eventpanel.net">Dmitry Preobrazhenskiy</vendor>
 
     <depends>com.intellij.modules.platform</depends>
@@ -9,6 +9,8 @@
     <description>
         A lightweight plugin that lets you quickly jump to NestJS modules in a project
         by typing their name.
+
+        Set u custom shortcut in the IDE settings to make it even faster.
     </description>
 
     <actions>

@@ -4,9 +4,6 @@ A lightweight JetBrains plugin for quickly navigating to NestJS module files in 
 
 ---
 
-<img width="178" alt="Screenshot 2025-05-05 at 00 41 56" src="https://github.com/user-attachments/assets/0680d2bb-dbae-4ef4-bb6f-4aaa943e3653" />
-
-
 ## ✨ Features
 
 - Input a module name (e.g. `user`)

@@ -13,7 +13,7 @@
 
     <actions>
         <action id="GoToNestModule"
-                class="com.example.GoToNestModuleAction"
+                class="net.eventpanel.GoToNestModuleAction"
                 text="Go To NestJS Module"
                 description="Navigate to a NestJS module file">
             <add-to-group group-id="EditorPopupMenu" anchor="last"/>

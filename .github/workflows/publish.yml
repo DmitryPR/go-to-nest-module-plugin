@@ -2,12 +2,12 @@ name: Build IntelliJ Plugin
 
 on:
   push:
-    tags:
-      - 'v*'
+    branches:
+      - master
 
 jobs:
   build:
-    name: Build Plugin Zip
+    name: Build Plugin
     runs-on: ubuntu-latest
 
     steps:
